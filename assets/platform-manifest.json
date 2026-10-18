@@ -1,0 +1,19 @@
+{
+  "android_api.txt": "a1729b23fe66f7bb01159933dc454cb606988d2ae4069c8897820f55093fb53d",
+  "aosp_libcore_dex.dex": "f5113a0b0f13bc3e24e12fdeb93fd8fe097088d9b0ca805f4d61ab92524cc6dc",
+  "core_library_dex.dex": "2d2d644edfc44e9b110b3f029c10d2078e37c20aaa4db41306d19d405d1a38df",
+  "fonts/DroidSans-Bold.ttf": "2f529a3e60c007979d95d29794c3660694217fb882429fb33919d2245fe969e9",
+  "fonts/DroidSans.ttf": "f51b88945f4c1b236f44b8d55a2d304316869127e95248c435c23f1e4142a7db",
+  "fonts/DroidSansFallback.ttf": "f63694f2d0910e2f31d00a818e23b13c8e3a24af04672789c19c1fb1c9da24ce",
+  "fonts/DroidSansMono.ttf": "12b552de765dc1265d64f9f5566649930dde4dba07da0251d9f92801e70a1047",
+  "fonts/DroidSerif-Bold.ttf": "c746c6383a03effbcad6ccb028e4b39e87071ff1a146a24fb2110a23e05776bb",
+  "fonts/DroidSerif-BoldItalic.ttf": "1aba99421b31afe890182663270c28bc619f00d8746234da3dda054cd5bf09b0",
+  "fonts/DroidSerif-Italic.ttf": "02c0108dea583e393fbcbec39c7093e9a3095a09d65e37fafff9a9b7a89123a4",
+  "fonts/DroidSerif-Regular.ttf": "ae32140265dbe0dfde24b9abd222be9210a531888f014ff9b2326aba2d6fd777",
+  "fonts/NOTICE": "38751245389e1e23f73e6f5384b5cbe7fa972cc4410c5adc9c04b082a0b9561a",
+  "fonts/README.txt": "c8b88077052fed912b3f724c0ed230c501cf4e18833af7ca44338d3cd0b093e2",
+  "fonts/manifest.json": "99353c84d0f349c707b79e0a529a0b1a478f1163959a1a1f95767e1d5b4ad1a4",
+  "framework.arsc": "6590d7072cd3938ad0574f3d2ecf337b578e9cca92dca634046dc76663a5c8cb",
+  "licenses/ANDROID_FRAMEWORK_SDK_NOTICE.txt": "c0ad9bfbab4402b8d30b797ebbd0e20fb08655fcebd90b11c5dc23f1059a3d4a",
+  "licenses/UNICODE.txt": "e7a93b009565cfce55919a381437ac4db883e9da2126fa28b91d12732bc53d96"
+}
