@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="icon.jpg" alt="earntodie2_nx" width="160">
+<img src="icon.jpg" alt="papaspaleteria_nx" width="160">
 
 # papaspaleteria_nx
 
