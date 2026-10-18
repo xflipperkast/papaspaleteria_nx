@@ -1,9 +1,20 @@
+<div align="center">
+
+<img src="icon.jpg" alt="earntodie2_nx" width="160">
+
 # papaspaleteria_nx
 
-Papa's Paleteria To Go! on Nintendo Switch
+**Papa's Paleteria To Go! on Nintendo Switch**
 
-An unofficial Nintendo Switch port of the Android version of
-Papa's Paleteria To Go! — 1.1.1 (ARM64)
+An unofficial Nintendo Switch port of the Android version of  
+**Papa's Paleteria To Go! — 1.1.1**
+
+**By xFlippy**
+
+[![Switch](https://img.shields.io/badge/Nintendo_Switch-Homebrew-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=white)](#)
+[![Ko-fi](https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/flippyy)
+
+</div>
 
 ---
 
